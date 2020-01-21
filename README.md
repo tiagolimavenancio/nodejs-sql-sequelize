@@ -1,2 +1,2 @@
 # nodejs-sql-sequelize
-NodeJS + Express + Sequelize + ORM + Postgres
+NodeJS + Express + Sequelize + PostgreSQL
